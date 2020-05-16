@@ -14,9 +14,9 @@ const greeting = {
 	// subTitle:
 	//   "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
 	subTitle:
-		"A passionate Data Scientist who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+		"A budding Data Scientist passionate about researching and developing analytical solutions, leveraging Machine Learning and Deep Learning to create an impact.",
 	resumeLink:
-		"https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf"
+		"https://arizona.box.com/s/b15wswwiwtav8098f0yvlavqzw41whm5"
 };
 
 const socialMediaLinks = {
@@ -319,9 +319,8 @@ const degrees = {
       alt_name: "UArizona",
       duration: "2019 - Present",
       descriptions: [
-        "I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics."
+        "◘ Graduate student majoring in MIS with a concentration in Business Intelligence, and Business Analytics.",
+        "◘ Some relevant courses include Data Mining, Enterprise Data Management, Business Intelligence, Big Data Technologies, Data Visualization, System Analysis & Design, and Project Management.",
       ],
       website_link: "http://arizona.edu"
     },
@@ -332,9 +331,9 @@ const degrees = {
       alt_name: "NIT Durgapur",
       duration: "2015 - 2019",
       descriptions: [
-        "I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics."
+        "◘ Graduated with a Bachelor of Technology in Computer Science & Engineering, in First Class with distinction (Honors).",
+        "◘ Relevant coursework includes Algorithms Analysis & Design, Data Structures, Machine Learning, Artificial Intelligence, Theory of Computation, Compiler Design, Digital Image Processing, Computer Networks, Computer Architecture, Microprocessors, and Database Management Systems (DBMS).",
+        "◘ Undergraduate thesis on Optimization of Power Consumption in Wireless Body Area Networks (WBAN)"
       ],
       website_link: "http://nitdgp.ac.in"
     }
