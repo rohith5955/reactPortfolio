@@ -18,17 +18,16 @@ import './ContactComponent.css';
 // 	avatar_image_path: "blogs_image.svg"
 // };
 
-// const addressSection = {
-// 	title: "Address",
-// 	subtitle:
-// 		"Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-// 	avatar_image_path: "address_image.svg",
-// 	location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76"
-// };
+const addressSection = {
+	title: "Address",
+	subtitle: "Eller College of Management, University of Arizona, Tucson, AZ, United States",
+	avatar_image_path: "address_image.svg",
+	location_map_link: "https://goo.gl/maps/buQh8dJqyEPDntFx7"
+}
 
 const phoneSection = {
     title: "Phone Number",
-    subtitle: "+91 8320758513"
+    subtitle: "+1(520)448-7107"
 }
 
 const ContactData = {
@@ -94,14 +93,9 @@ class Contact extends Component {
 									</div>
 								</div>
 							</Fade> */}
-							{/* <Fade bottom duration={1000} distance="40px">
+							<Fade bottom duration={1000} distance="40px">
 								<div className="address-heading-div">
-									<div className="contact-heading-img-div">
-										<img
-											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
-											alt=""
-										/>
-									</div>
+									
 									<div className="address-heading-text-div">
 										<h1 className="address-heading-text">
 											{addressSection["title"]}
@@ -123,8 +117,16 @@ class Contact extends Component {
 											/>
 										</div>
 									</div>
+
+									<div className="contact-heading-img-div">
+										 <img
+											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
+											alt=""
+										/> 
+									</div>
+
 								</div>
-							</Fade> */}
+							</Fade>
 						</div>
 						<Footer />
 					</div>
