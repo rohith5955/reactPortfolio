@@ -14,7 +14,7 @@ const greeting = {
 	// subTitle:
 	//   "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
 	subTitle:
-		"A budding Data Scientist passionate about researching and developing analytical solutions, leveraging Machine Learning and Deep Learning to create an impact.",
+		"A budding Data Scientist passionate about researching and developing analytical solutions leveraging Machine Learning and Deep Learning. I hope to create an impact around me.",
 	resumeLink:
 		"https://arizona.box.com/s/b15wswwiwtav8098f0yvlavqzw41whm5"
 };
@@ -36,9 +36,9 @@ const skills = {
       title: "Data Science & AI",
       imagePath: "data_science.svg",
       skills: [
-        "◘ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "◘ Experience of working with Computer Vision and NLP projects",
-        "◘ Complex quantitative modelling for dynamic forecasting and time series analysis"
+        "◘ Developing highly scalable production ready models for various Machine Learning, Deep Learning and Statistics",
+        "◘ Experience of working with Computer Vision, Text Mining and Natural Language Processing",
+        "◘ Complex quantitative modelling for dynamic forecasting and Time Series analysis"
       ],
       softwareSkills: [
         {
@@ -74,12 +74,12 @@ const skills = {
       ]
     },
     {
-      title: "Web Development",
+      title: "Software Engineering",
       imagePath: "fullstack.svg",
       skills: [
-        "◘ Building resposive website front end using React-Redux",
-        "◘ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "◘ Creating application backend in Node, Express & Flask"
+        "◘ Building robust applications on various platforms",
+        "◘ Developing applications using C#, ASP.NET, React Native and Xamarin",
+        "◘ Developing Database Applications using Oracle SQL, and MySQL"
       ],
       softwareSkills: [
         {
@@ -161,8 +161,7 @@ const skills = {
       skills: [
         "◘ Experience working on multiple cloud platforms",
         "◘ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "◘ Deploying deep learning models on cloud to use on mobile devices",
-        "◘ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS"
+        "◘ Deploying deep learning models on cloud to use on mobile devices"
       ],
       softwareSkills: [
         // {
@@ -227,9 +226,9 @@ const skills = {
       title: "UI/UX Design",
       imagePath: "ui_ux_design.svg",
       skills: [
-        "◘ Designing highly attractive user interface for mobile and web applications",
-        "◘ Customizing logo designs and building logos from scratch",
-        "◘ Creating the flow of application functionalities to optimize user experience"
+        "◘ Designing intuitive user interface and wireframes for GUI based applications",
+        "◘ Developing graphic designs including posters, social media posts, and logos",
+        "◘ Photography and editing"
       ],
       softwareSkills: [
         {
