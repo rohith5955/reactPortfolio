@@ -30,10 +30,15 @@ const phoneSection = {
     subtitle: "+1(520)448-7107"
 }
 
+const emailSection = {
+    title: "Email",
+    subtitle: "rsajja@email.arizona.edu"
+}
+
 const ContactData = {
 	title: "Contact Me",
     profile_image_path: "rohithsajja.png",
-    description: "I am available on almost all social media platforms. Feel free to reach out, to talk about Machine Learning, Deep Learning, Software Engineering or Product Development."
+    description: "I am available on almost all social media platforms. Feel free to reach out, to talk about Machine Learning, Deep Learning, Software Engineering or Product Management."
 };
 
 class Contact extends Component {
@@ -97,25 +102,31 @@ class Contact extends Component {
 								<div className="address-heading-div">
 									
 									<div className="address-heading-text-div">
-										<h1 className="address-heading-text">
+										{/* <h1 className="address-heading-text">
 											{addressSection["title"]}
 										</h1>
 										<p className="contact-header-detail-text subTitle">
 											{addressSection["subtitle"]}
-										</p>
+										</p> */}
 										<h1 className="address-heading-text">
 											{phoneSection["title"]}
 										</h1>
 										<p className="contact-header-detail-text subTitle">
-											{phoneSection["subtitle"]}
+											<a href="tel://5204487107">{phoneSection["subtitle"]}</a>
 										</p>
-										<div className="address-btn-div">
+										<h1 className="address-heading-text">
+											{emailSection["title"]}
+										</h1>
+										<p className="contact-header-detail-text subTitle">
+											<a href="mailto:rsajja@email.arizona.edu">{emailSection["subtitle"]}</a>
+										</p>
+										{/* <div className="address-btn-div">
 											<Button
 												text="Visit on Google Maps"
 												newTab={true}
 												href={addressSection.location_map_link}
 											/>
-										</div>
+										</div> */}
 									</div>
 
 									<div className="contact-heading-img-div">

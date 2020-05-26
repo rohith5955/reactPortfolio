@@ -100,6 +100,11 @@
   font-family: "Google Sans Medium";
 }
 
+.contact-header-detail-text a{
+  color: #868E96;
+  text-decoration: none;
+}
+
 .blog-header-detail-text {
     font-size: 20px;
   line-height: 30px;

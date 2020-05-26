@@ -35,7 +35,7 @@ class Education extends Component {
                     <li>Machine Learning</li>
                     <li>Deep Learning</li>
                     <li>Software Engineering</li>
-                    <li>Product Development</li>
+                    <li>Product Management</li>
                   </ul>
                 </h5>
               </div>

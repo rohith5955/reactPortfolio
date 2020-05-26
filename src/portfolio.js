@@ -14,7 +14,7 @@ const greeting = {
 	// subTitle:
 	//   "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
 	subTitle:
-		"A budding Data Scientist passionate about researching and developing analytical solutions leveraging Machine Learning and Deep Learning. I hope to create an impact around me.",
+		"A budding Data Scientist, passionate about researching and developing analytical solutions.  I leverage Machine Learning and Deep Learning on the hottest commodity - data, to create an impact.",
 	resumeLink:
 		"https://arizona.box.com/s/b15wswwiwtav8098f0yvlavqzw41whm5"
 };
