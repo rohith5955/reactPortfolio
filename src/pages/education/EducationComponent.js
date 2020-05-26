@@ -27,7 +27,7 @@ class Education extends Component {
                 </h3>
                 {/* <CompetitiveSites logos={competitiveSites.competitiveSites} /> */}
 
-                <h4>My core competencies include</h4>
+                {/* <h4>My core competencies include</h4>
 
                 <h5>
                   <ul>
@@ -37,7 +37,7 @@ class Education extends Component {
                     <li>Software Engineering</li>
                     <li>Product Management</li>
                   </ul>
-                </h5>
+                </h5> */}
               </div>
              
             </div>
