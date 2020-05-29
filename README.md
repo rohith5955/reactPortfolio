@@ -1,6 +1,7 @@
 # Responsive Portfolio Template
 
-[![HitCount](http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg)](http://hits.dwyl.com/ashutosh1919/masterPortfolio)
+[![HitCount](http://hits.dwyl.com/rohith5955/reactPortfolio.svg)]((http://hits.dwyl.com/rohith5955/reactPortfolio))
+
 
 
 ## A clean, beautiful and responsive portfolio template for Developers!
@@ -8,7 +9,7 @@
 
 <p align="center"> 
   <kbd>
-  	<a href="https://ashutosh1919.github.io" target="_blank">
+  	<a href="https://rohithsajja.me" target="_blank">
 		<img src="images/front.PNG"></img>
 	</a>
   </kbd>
