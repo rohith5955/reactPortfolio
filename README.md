@@ -19,12 +19,12 @@
 
 
 
-## License 📄
+## License 
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
 
 
-## Contributors ✨
+## Contributors 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
