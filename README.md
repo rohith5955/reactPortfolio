@@ -1,6 +1,8 @@
 # Responsive Portfolio Template
 
 [![HitCount](http://hits.dwyl.com/rohith5955/reactPortfolio.svg)]((http://hits.dwyl.com/rohith5955/reactPortfolio))
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
 
 
 
