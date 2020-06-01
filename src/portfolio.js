@@ -75,10 +75,10 @@ const skills = {
     },
     {
       title: "Software Engineering",
-      imagePath: "fullstack.svg",
+      imagePath: "code.svg",
       skills: [
         "◘ Building robust applications on various platforms",
-        "◘ Developing applications using C#, ASP.NET, React Native and Xamarin",
+        "◘ Developing applications using C#, ASP.NET, Python, and React Native",
         "◘ Developing Database Applications using Oracle SQL, and MySQL"
       ],
       softwareSkills: [
@@ -157,11 +157,11 @@ const skills = {
     },
     {
       title: "Cloud Infra-Architecture",
-      imagePath: "cloud_infrastructure.svg",
+      imagePath: "cloud.svg",
       skills: [
-        "◘ Experience working on multiple cloud platforms",
+        "◘ Experience working on multiple cloud platforms - Oracle, AWS, Azure",
         "◘ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "◘ Deploying deep learning models on cloud to use on mobile devices"
+        "◘ Deploying Machine Learning and Deep Learning models on cloud to use on mobile devices"
       ],
       softwareSkills: [
         // {
@@ -341,9 +341,20 @@ const degrees = {
 
 const certifications = {
 	certifications: [
+    {
+			title: "Supervised & Unsupervised Learning with Scikit-learn",
+			subtitle: "DataCamp",
+			logo_path: "datacamp.png",
+			certificate_link:
+				"",
+      alt_name: "DataCamp",
+      color_code: "#FFFFFF"
+
+    },
+    
 		{
 			title: "Machine Learning",
-			subtitle: "- Andrew Ng",
+			subtitle: "Andrew Ng",
 			logo_path: "stanford_logo.png",
 			certificate_link:
 				"",
@@ -352,7 +363,7 @@ const certifications = {
 		},
 		{
 			title: "Deep Learning",
-			subtitle: "- Andrew Ng",
+			subtitle: "Andrew Ng",
 			logo_path: "deeplearning_ai_logo.png",
 			certificate_link:
 				"",
@@ -368,14 +379,24 @@ const certifications = {
 		// 	alt_name: "Google",
 		// 	color_code: "#0C9D5899"
 		// },
-		{
-			title: "Data Science",
-			subtitle: "- Alex Aklson",
-			logo_path: "ibm_logo.png",
+		// {
+		// 	title: "Data Science",
+		// 	subtitle: "- Alex Aklson",
+		// 	logo_path: "ibm_logo.png",
+		// 	certificate_link:
+		// 		"",
+		// 	alt_name: "IBM",
+		// 	color_code: "#1F70C199"
+    // },
+    {
+			title: "Introduction to Git",
+			subtitle: "DataCamp",
+			logo_path: "datacamp.png",
 			certificate_link:
 				"",
-			alt_name: "IBM",
-			color_code: "#1F70C199"
+      alt_name: "DataCamp",
+      color_code: "#FFFFFF"
+
 		},
 		// {
 		// 	title: "Big Data",

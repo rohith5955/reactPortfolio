@@ -23,8 +23,8 @@ export default function Greeting() {
           </div>
           <div className="greeting-image-div">
             <img
-              alt="saad sitting on table"
-              src={require("../../assests/images/feelingProud.svg")}
+              alt="office desk"
+              src={require("../../assests/images/office_desk.svg")}
             ></img>
           </div>
         </div>

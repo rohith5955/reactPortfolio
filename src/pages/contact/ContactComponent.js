@@ -21,7 +21,7 @@ import './ContactComponent.css';
 const addressSection = {
 	title: "Address",
 	subtitle: "Eller College of Management, University of Arizona, Tucson, AZ, United States",
-	avatar_image_path: "address_image.svg",
+	avatar_image_path: "contact.svg",
 	location_map_link: "https://goo.gl/maps/buQh8dJqyEPDntFx7"
 }
 
