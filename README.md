@@ -4,7 +4,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-[![Github All Releases](https://img.shields.io/github/downloads/rohith5955/reactPortfolio/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/rohith5955/reactPortfolio/blob/master/total.svg)]()
 
 
 
@@ -31,7 +31,7 @@
 
 ## License 
 
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
+This project is licensed under the MIT License - [LICENSE.md](./LICENSE) 
 
 
 ## References  
