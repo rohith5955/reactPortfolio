@@ -8,11 +8,8 @@ const theme = {
 
 const greeting = {
 	/* Your Summary And Greeting Section */
-	//title: "Hi all 👋 I'm Saad",
 	title: "Rohith Kumar Sajja",
 	nickname: "rohith5955",
-	// subTitle:
-	//   "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
 	subTitle:
 		"A budding Data Scientist, passionate about researching and developing analytical solutions.  I leverage Machine Learning and Deep Learning on the hottest commodity - data, to create an impact.",
 	resumeLink:
@@ -24,7 +21,6 @@ const socialMediaLinks = {
 	github: "https://github.com/rohith5955",
 	linkedin: "https://www.linkedin.com/in/rohithsajja",
 	gmail: "rsajja@email.arizona.edu",
-	// gitlab: "",
 	facebook: "https://www.facebook.com/rohith5955",
 	twitter: "https://twitter.com/rohith5955",
 	instagram: "https://www.instagram.com/rohith5955"
@@ -43,7 +39,7 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
+          skillName: "TensorFlow",
           fontAwesomeClassname: "logos-tensorflow",
           style: {
             backgroundColor: "transparent"
@@ -489,7 +485,7 @@ const openSource = {
   // githubConvertedToken: "Your Github Converted Token",
   // githubUserName: "Your Github Username"
 
-  githubConvertedToken: "Zjk5MTI2Mzc4MDQzMGMyOWYwMTk4OTUzY2JkZTlkYzQ1OGNjZTg4Nw==",
+  githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
   githubUserName: "rohith5955",
   showGithubProfile: "true"
 };
