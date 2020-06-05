@@ -36,9 +36,10 @@ const skills = {
       title: "Data Science & AI",
       imagePath: "data_science.svg",
       skills: [
-        "◘ Developing highly scalable production ready models for various Machine Learning, Deep Learning and Statistics",
-        "◘ Experience of working with Computer Vision, Text Mining and Natural Language Processing",
-        "◘ Complex quantitative modelling for dynamic forecasting and Time Series analysis"
+        "Developing highly scalable and production ready Machine Learning, Deep Learning and Statistical models",
+        "Experience in working with Computer Vision, Text Mining and Natural Language Processin (NLP)",
+        "Complex quantitative modelling for Time Series analysis and forecasting",
+        "Libraries/Frameworks - TensorFlow, PyTorch, Keras, Numpy, Pandas, Scikit-learn, SciPy"
       ],
       softwareSkills: [
         {
@@ -77,9 +78,9 @@ const skills = {
       title: "Software Engineering",
       imagePath: "code.svg",
       skills: [
-        "◘ Building robust applications on various platforms",
-        "◘ Developing applications using C#, ASP.NET, Python, and React Native",
-        "◘ Developing Database Applications using Oracle SQL, and MySQL"
+        "Building robust applications on various platforms",
+        "Developing applications using C#, ASP.NET, Python, and React Native",
+        "Developing Database Applications using Oracle SQL, and MySQL"
       ],
       softwareSkills: [
         {
@@ -124,21 +125,21 @@ const skills = {
           style: {
             color: "#339933"
           }
+        },
+        {
+          skillName: "NPM",
+          fontAwesomeClassname: "simple-icons:npm",
+          style: {
+            color: "#CB3837"
+          }
+        },
+        {
+          skillName: "Yarn",
+          fontAwesomeClassname: "simple-icons:yarn",
+          style: {
+            color: "#2C8EBB"
+          }
         }
-        // {
-        //   skillName: "NPM",
-        //   fontAwesomeClassname: "simple-icons:npm",
-        //   style: {
-        //     color: "#CB3837"
-        //   }
-        // },
-        // {
-        //   skillName: "Yarn",
-        //   fontAwesomeClassname: "simple-icons:yarn",
-        //   style: {
-        //     color: "#2C8EBB"
-        //   }
-        // }
         // {
         //   skillName: "Gatsby",
         //   fontAwesomeClassname: "simple-icons:gatsby",
@@ -159,18 +160,18 @@ const skills = {
       title: "Cloud Infra-Architecture",
       imagePath: "cloud.svg",
       skills: [
-        "◘ Experience working on multiple cloud platforms - Oracle, AWS, Azure",
-        "◘ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "◘ Deploying Machine Learning and Deep Learning models on cloud to use on mobile devices"
+        "Experience working on multiple cloud platforms - Oracle, Amazon Web Services (AWS), Microsoft Azure, Google CLoud Platform (GCP)",
+        "Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "Containerization and deploying Machine Learning and Deep Learning models on cloud to use on mobile devices"
       ],
       softwareSkills: [
-        // {
-        //   skillName: "GCP",
-        //   fontAwesomeClassname: "simple-icons:googlecloud",
-        //   style: {
-        //     color: "#4285F4"
-        //   }
-        // },
+        {
+          skillName: "GCP",
+          fontAwesomeClassname: "simple-icons:googlecloud",
+          style: {
+            color: "#4285F4"
+          }
+        },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -198,39 +199,47 @@ const skills = {
           style: {
             color: "#F80000"
           }
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47A248"
+          }
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#1488C6"
+          }
+        },
+        {
+          skillName: "Kubernetes",
+          fontAwesomeClassname: "simple-icons:kubernetes",
+          style: {
+            color: "#326CE5"
+          }
         }
-        // {
-        //   skillName: "MongoDB",
-        //   fontAwesomeClassname: "simple-icons:mongodb",
-        //   style: {
-        //     color: "#47A248"
-        //   }
-        // }
-        // {
-        //   skillName: "Docker",
-        //   fontAwesomeClassname: "simple-icons:docker",
-        //   style: {
-        //     color: "#1488C6"
-        //   }
-        // },
-        // {
-        //   skillName: "Kubernetes",
-        //   fontAwesomeClassname: "simple-icons:kubernetes",
-        //   style: {
-        //     color: "#326CE5"
-        //   }
-        // }
       ]
     },
     {
-      title: "UI/UX Design",
-      imagePath: "ui_ux_design.svg",
+      title: "Product Management",
+      imagePath: "product.svg",
       skills: [
-        "◘ Designing intuitive user interface and wireframes for GUI based applications",
-        "◘ Developing graphic designs including posters, social media posts, and logos",
-        "◘ Photography and editing"
+        "End-to-end product ownership, from ideation to production and distribution",
+        "Designing intuitive User Interfaces (UI) and User Experiences (UX) with UI/UX design principles",
+        "Developing graphic designs including posters, social media posts, and logos",
+        "Photography and editing"
       ],
       softwareSkills: [
+        {
+          skillName: "JIRA",
+          fontAwesomeClassname: "simple-icons:jira",
+          style: {
+            color: "#095AD1"
+          }
+        },
         {
           skillName: "Adobe Photoshop",
           fontAwesomeClassname: "simple-icons:adobephotoshop",
@@ -318,8 +327,8 @@ const degrees = {
       alt_name: "UArizona",
       duration: "2019 - Present",
       descriptions: [
-        "◘ Graduate student majoring in MIS with a concentration in Business Intelligence, and Business Analytics.",
-        "◘ Some relevant courses include Data Mining, Enterprise Data Management, Business Intelligence, Big Data Technologies, Data Visualization, System Analysis & Design, and Project Management.",
+        "Graduate student majoring in MIS with a concentration in Business Intelligence, and Business Analytics.",
+        "Some relevant courses include Data Mining, Enterprise Data Management, Business Intelligence, Big Data Technologies, Data Visualization, System Analysis & Design, and Project Management.",
       ],
       website_link: "http://arizona.edu"
     },
@@ -330,9 +339,9 @@ const degrees = {
       alt_name: "NIT Durgapur",
       duration: "2015 - 2019",
       descriptions: [
-        "◘ Graduated with a Bachelor of Technology in Computer Science & Engineering, in First Class with distinction (Honors).",
-        "◘ Relevant coursework includes Algorithms Analysis & Design, Data Structures, Machine Learning, Artificial Intelligence, Theory of Computation, Compiler Design, Digital Image Processing, Computer Networks, Computer Architecture, Microprocessors, and Database Management Systems (DBMS).",
-        "◘ Undergraduate thesis on Optimization of Power Consumption in Wireless Body Area Networks (WBAN)"
+        "Graduated with a Bachelor of Technology in Computer Science & Engineering, in First Class with distinction (Honors).",
+        "Relevant coursework includes Algorithms Analysis & Design, Data Structures, Machine Learning, Artificial Intelligence, Theory of Computation, Compiler Design, Digital Image Processing, Computer Networks, Computer Architecture, Microprocessors, and Database Management Systems (DBMS).",
+        "Undergraduate thesis on Optimization of Power Consumption in Wireless Body Area Networks (WBAN)"
       ],
       website_link: "http://nitdgp.ac.in"
     }
@@ -608,9 +617,9 @@ const achievementSection = {
 
 const contactInfo = {
   title: "Contact Me ☎️",
-  subtitle: "Discuss a project or just want to say hi my inbox is open for all",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  subtitle: "Just drop a hi :)",
+  number: "",
+  email_address: "rohith.sajja@gmail.com"
 };
 
 export {
