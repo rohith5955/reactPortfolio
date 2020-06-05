@@ -2,7 +2,9 @@
 
 [![HitCount](http://hits.dwyl.com/rohith5955/reactPortfolio.svg)]((http://hits.dwyl.com/rohith5955/reactPortfolio))
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]() 
 
 
 
