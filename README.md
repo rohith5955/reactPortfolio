@@ -4,7 +4,9 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-[![GitHub Download Count](https://github.com/rohith5955/reactPortfolio/blob/master/src/assests/images/office_desk.svg)](https://github.com/rohith5955/reactPortfolio)
+[![Github All Releases](https://img.shields.io/github/downloads/rohith5955/reactPortfolio/total.svg)]()
+
+
 
 
 
