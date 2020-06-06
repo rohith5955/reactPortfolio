@@ -41,6 +41,7 @@
 .header .logo-name {
   font-family: "Heatwood";
   font-weight: bold;
+  font-size: 20px;
   padding: 0 10px;
   /* color: #55198b;*/
   color: #ff3b3f;
