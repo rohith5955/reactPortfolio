@@ -30,6 +30,20 @@
   background-color: #f4f4f4;
 }
 
+.logo-holder {
+    float: left;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+}
+
+.logo-holder img {
+  width: 30px;
+  height: auto;
+  float: left;
+}
+
+
 .header .logo {
   display: block;
   float: left;

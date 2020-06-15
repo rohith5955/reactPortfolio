@@ -13,7 +13,7 @@ const greeting = {
 	subTitle:
 		"A budding Data Scientist, passionate about researching and developing analytical solutions.  I leverage Machine Learning and Deep Learning on the hottest commodity - data, to create an impact.",
 	resumeLink:
-		"https://arizona.box.com/s/b15wswwiwtav8098f0yvlavqzw41whm5"
+		"https://arizona.box.com/s/tnvut40m0rhly2fox65uq7eqa1xgc1zq"
 };
 
 const socialMediaLinks = {
@@ -75,8 +75,8 @@ const skills = {
       imagePath: "code.svg",
       skills: [
         "Building robust applications on various platforms",
-        "Developing applications using C#, ASP.NET, Python, and React Native",
-        "Developing Database Applications using Oracle SQL, and MySQL"
+        "Developing applications using C#, ASP.NET, Python, and React",
+        "Developing Database Applications using Oracle SQL, MongoDB, MySQL"
       ],
       softwareSkills: [
         {
@@ -121,21 +121,21 @@ const skills = {
           style: {
             color: "#339933"
           }
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837"
-          }
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB"
-          }
         }
+        // {
+        //   skillName: "NPM",
+        //   fontAwesomeClassname: "simple-icons:npm",
+        //   style: {
+        //     color: "#CB3837"
+        //   }
+        // },
+        // {
+        //   skillName: "Yarn",
+        //   fontAwesomeClassname: "simple-icons:yarn",
+        //   style: {
+        //     color: "#2C8EBB"
+        //   }
+        // }
         // {
         //   skillName: "Gatsby",
         //   fontAwesomeClassname: "simple-icons:gatsby",
@@ -156,9 +156,9 @@ const skills = {
       title: "Cloud Infra-Architecture",
       imagePath: "cloud.svg",
       skills: [
-        "Experience working on multiple cloud platforms - Oracle, Amazon Web Services (AWS), Microsoft Azure, Google CLoud Platform (GCP)",
+        "Experience working on multiple cloud platforms - Oracle, Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)",
         "Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "Containerization and deploying Machine Learning and Deep Learning models on cloud to use on mobile devices"
+        "Containerization and deploying Machine Learning and Deep Learning models on cloud using Docker and Kubernetes"
       ],
       softwareSkills: [
         {
@@ -250,13 +250,13 @@ const skills = {
             color: "#F37021"
           }
         },
-        {
-          skillName: "Adobe Premiere",
-          fontAwesomeClassname: "simple-icons:adobepremiere",
-          style: {
-            color: "#EA77FF"
-          }
-        },
+        // {
+        //   skillName: "Adobe Premiere",
+        //   fontAwesomeClassname: "simple-icons:adobepremiere",
+        //   style: {
+        //     color: "#EA77FF"
+        //   }
+        // },
         {
           skillName: "Adobe Lightroom CC",
           fontAwesomeClassname: "simple-icons:adobelightroom",
