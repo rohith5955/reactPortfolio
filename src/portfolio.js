@@ -19,7 +19,8 @@ const greeting = {
 const socialMediaLinks = {
 	/* Your Social Media Link */
 	github: "https://github.com/rohith5955",
-	linkedin: "https://www.linkedin.com/in/rohithsajja",
+  linkedin: "https://www.linkedin.com/in/rohithsajja",
+  medium: "https://www.medium.com/@rohith5955",
 	gmail: "rsajja@email.arizona.edu",
 	facebook: "https://www.facebook.com/rohith5955",
 	twitter: "https://twitter.com/rohith5955",

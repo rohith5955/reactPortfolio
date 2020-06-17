@@ -5,8 +5,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 <!-- [![Github All Releases](https://img.shields.io/github/downloads/rohith5955/reactPortfolio/blob/master/total.svg)]() -->
-<a href="https://app.netlify.com/sites/eager-lovelace-efac37/overview" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c34fc368-dd92-404a-b58d-bb93b7b40737/deploy-status)](https://app.netlify.com/sites/eager-lovelace-efac37/deploys)
 
 
 

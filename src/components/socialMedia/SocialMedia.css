@@ -39,6 +39,10 @@
   background-color: #333;
 }
 
+.medium i {
+  background-color: #333;
+}
+
 .gitlab i {
   background-color: #fca326;
 }
@@ -57,7 +61,7 @@
 
 /*Hover Transition*/
 .twitter i:hover, .google i:hover, .gitlab i:hover,
-.github i:hover ,.linkedin i:hover ,.facebook i:hover, .instagram i:hover{
+.github i:hover ,.linkedin i:hover ,.medium i:hover ,.facebook i:hover, .instagram i:hover{
   background-color: black;
   transition: 0.3s ease-in;
 }
