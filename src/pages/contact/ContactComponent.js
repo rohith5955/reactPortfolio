@@ -8,15 +8,15 @@ import {Fade} from 'react-reveal';
 import './ContactComponent.css';
 
 
-// const blogSection = {
-// 	/* Blogs Section */
+const blogSection = {
+	/* Blogs Section */
 
-// 	title: "Blogs",
-// 	subtitle:
-// 		"For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-// 	link: "https://ashutoshhathidara.wordpress.com",
-// 	avatar_image_path: "blogs_image.svg"
-// };
+	title: "Blogs",
+	subtitle:
+		"I have recently started to document and share my learnings via Medium. On this page, I share my thoughts and views in the field of Data Science. I\'m a contributing author for Towards Data Science.",
+	link: "https://medium.com/@rohith5955",
+	avatar_image_path: "blogs_image.svg"
+};
 
 const addressSection = {
 	title: "Address",
@@ -73,7 +73,7 @@ class Contact extends Component {
 									</div>
 								</div>
 							</Fade>
-							{/* <Fade bottom duration={1000} distance="40px">
+							<Fade bottom duration={1000} distance="40px">
 								<div className="blog-heading-div">
 									<div className="blog-heading-text-div">
 										<h1 className="blog-heading-text">
@@ -84,7 +84,7 @@ class Contact extends Component {
 										</p>
 										<div className="blogsite-btn-div">
 											<Button
-												text="Visit My Blogsite"
+												text="Medium Profile"
 												newTab={true}
 												href={blogSection.link}
 											/>
@@ -97,10 +97,17 @@ class Contact extends Component {
 										/>
 									</div>
 								</div>
-							</Fade> */}
+							</Fade>
 							<Fade bottom duration={1000} distance="40px">
 								<div className="address-heading-div">
 									
+									<div className="contact-heading-img-div">
+										 <img
+											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
+											alt="Contact Me"
+										/> 
+									</div>
+
 									<div className="address-heading-text-div">
 										{/* <h1 className="address-heading-text">
 											{addressSection["title"]}
@@ -129,12 +136,7 @@ class Contact extends Component {
 										</div> */}
 									</div>
 
-									<div className="contact-heading-img-div">
-										 <img
-											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
-											alt=""
-										/> 
-									</div>
+									
 
 								</div>
 							</Fade>

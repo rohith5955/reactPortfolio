@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "ashutosh1919",
-      "name": "Ashutosh Hathidara",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/23307811?v=4",
-      "profile": "http://ashutosh1919.github.io",
+      "login": "rohith5955",
+      "name": "Rohith Kumar Sajja",
+      "avatar_url": "https://rohithsajja.me/static/media/rohithsajja.a73eecaf.png",
+      "profile": "http:/rohithsajja.me",
       "contributions": [
         "code",
         "doc",
@@ -20,8 +20,8 @@
     }
   ],
   "contributorsPerLine": 1,
-  "projectName": "masterPortfolio",
-  "projectOwner": "ashutosh1919",
+  "projectName": "reactPortfolio",
+  "projectOwner": "rohith5955",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true

@@ -9,11 +9,11 @@ function Header() {
 			<div>
 				<header className="header">
 					{/* <NavLink to="/home" tag={Link} className="logo"> */}
-					<div class="logo-holder">
+					{/* <div class="logo-holder">
 						<a href="https://rohithsajja.me">
 							<img src="rs_logo.svg" alt="Rohith Sajja" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></img>
 						</a>
-					</div>
+					</div> */}
 					<NavLink to="/home" tag={Link} className="logo">
 						<span className="grey-color"> &lt;</span>
 						<span className="logo-name">Rohith Kumar Sajja</span>
