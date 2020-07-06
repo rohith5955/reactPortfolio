@@ -11,7 +11,7 @@ const greeting = {
 	title: "Rohith Kumar Sajja",
 	nickname: "rohith5955",
 	subTitle:
-		"A budding Data Scientist, passionate about researching and developing analytical solutions.  I leverage Machine Learning and Deep Learning on the hottest commodity - data, to create an impact.",
+		"A budding Data Scientist, passionate about researching and developing analytical solutions.  I leverage Machine Learning and Deep Learning on the hottest commodity - data.",
 	resumeLink:
 		"https://arizona.box.com/s/tnvut40m0rhly2fox65uq7eqa1xgc1zq"
 };
