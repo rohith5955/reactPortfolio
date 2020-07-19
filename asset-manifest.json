@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.560d62b0.chunk.css",
-    "main.js": "/static/js/main.e4745131.chunk.js",
-    "main.js.map": "/static/js/main.e4745131.chunk.js.map",
+    "main.js": "/static/js/main.ef26d65b.chunk.js",
+    "main.js.map": "/static/js/main.ef26d65b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.439c01df.js",
     "runtime-main.js.map": "/static/js/runtime-main.439c01df.js.map",
-    "static/js/2.d34bcb77.chunk.js": "/static/js/2.d34bcb77.chunk.js",
-    "static/js/2.d34bcb77.chunk.js.map": "/static/js/2.d34bcb77.chunk.js.map",
+    "static/js/2.e102641d.chunk.js": "/static/js/2.e102641d.chunk.js",
+    "static/js/2.e102641d.chunk.js.map": "/static/js/2.e102641d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fefb5f3a83541397aa8085d6c7b2d010.js": "/precache-manifest.fefb5f3a83541397aa8085d6c7b2d010.js",
+    "precache-manifest.178202a7f68c1075e49791a50dbc6fe1.js": "/precache-manifest.178202a7f68c1075e49791a50dbc6fe1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.560d62b0.chunk.css.map": "/static/css/main.560d62b0.chunk.css.map",
-    "static/js/2.d34bcb77.chunk.js.LICENSE.txt": "/static/js/2.d34bcb77.chunk.js.LICENSE.txt",
+    "static/js/2.e102641d.chunk.js.LICENSE.txt": "/static/js/2.e102641d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/animated_logo.svg": "/static/media/animated_logo.52e0714e.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.e2cab687.svg",
@@ -33,6 +33,7 @@
     "static/media/experience 2.svg": "/static/media/experience 2.a7f90076.svg",
     "static/media/experience.svg": "/static/media/experience.3330f38d.svg",
     "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/foreoptics_logo.png": "/static/media/foreoptics_logo.67f8d5a0.png",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.ba18401b.png",
     "static/media/github_logo.png": "/static/media/github_logo.e64de169.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
@@ -66,8 +67,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.439c01df.js",
-    "static/js/2.d34bcb77.chunk.js",
+    "static/js/2.e102641d.chunk.js",
     "static/css/main.560d62b0.chunk.css",
-    "static/js/main.e4745131.chunk.js"
+    "static/js/main.ef26d65b.chunk.js"
   ]
 }

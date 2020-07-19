@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42dff234661a6896fc83df9d4661b985",
+    "revision": "73fe67ea10f19e48e6b768efd3f1ee18",
     "url": "/index.html"
   },
   {
-    "revision": "b1f0c94c71b8137af552",
+    "revision": "71bd271f6dbf91e0db3b",
     "url": "/static/css/main.560d62b0.chunk.css"
   },
   {
-    "revision": "c2af76f3dca38dd8b731",
-    "url": "/static/js/2.d34bcb77.chunk.js"
+    "revision": "b349e322624094e5d6a5",
+    "url": "/static/js/2.e102641d.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/static/js/2.d34bcb77.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e102641d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b1f0c94c71b8137af552",
-    "url": "/static/js/main.e4745131.chunk.js"
+    "revision": "71bd271f6dbf91e0db3b",
+    "url": "/static/js/main.ef26d65b.chunk.js"
   },
   {
     "revision": "903d9b330b8f52e669e8",
@@ -194,6 +194,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2801fb415f03c7b170934769d7b5397",
     "url": "/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  {
+    "revision": "67f8d5a0cbe0d348ce9e763ae9467748",
+    "url": "/static/media/foreoptics_logo.67f8d5a0.png"
   },
   {
     "revision": "ba18401b15f40a463898b706cc6ff08c",
