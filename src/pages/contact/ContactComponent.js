@@ -7,7 +7,6 @@ import {greeting} from '../../portfolio';
 import {Fade} from 'react-reveal';
 import './ContactComponent.css';
 
-
 const blogSection = {
 	/* Blogs Section */
 
@@ -100,12 +99,11 @@ class Contact extends Component {
 							</Fade>
 							<Fade bottom duration={1000} distance="40px">
 								<div className="address-heading-div">
-									
 									<div className="contact-heading-img-div">
-										 <img
+										<img
 											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
 											alt="Contact Me"
-										/> 
+										/>
 									</div>
 
 									<div className="address-heading-text-div">
@@ -135,8 +133,6 @@ class Contact extends Component {
 											/>
 										</div> */}
 									</div>
-
-									
 
 								</div>
 							</Fade>
