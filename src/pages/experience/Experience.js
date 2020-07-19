@@ -44,6 +44,16 @@ const experience = {
 			title: "Internships",
 			experiences: [
 				{
+					title: "Data Analytics Intern",
+					company: "ForeOptics",
+					company_url: "https://www.foreoptics.com/",
+					logo_path: "foreoptics_logo.png",
+					duration: "June 2020 - Present",
+					location: "Scottsdale, AZ",
+					description: ["Develop a data analytics roadmap and release strategy for new products and refine existing analytics portfolio.", " Use advanced data modeling and analysis techniques to identify performance metrics, and discover insights."," Build, develop and maintain data models, reporting systems, data automation systems, dashboards.", " Optimize processes for data intake, validation, mining, engineering as well as modeling & visualization deliverables."],
+					color: "#1268A8"
+				},
+				{
 					title: "Software Engineering Intern",
 					company: "PricewaterhouseCoopers Pvt. Ltd. (PwC)",
 					company_url: "https://www.pwc.in/",

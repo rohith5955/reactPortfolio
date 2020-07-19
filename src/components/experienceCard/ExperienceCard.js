@@ -31,6 +31,7 @@ class ExperienceCard extends Component {
                                     <p className="experience-card-location">{experience["location"]}</p>
                                 </div>
 							</div>
+						
                             <p className="experience-card-description">{experience["description"]}</p>
 						</div>
 					</div>

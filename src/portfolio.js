@@ -1,5 +1,10 @@
 /* Change this file to get your personal Porfolio */
 
+
+const settings = {
+  isSplash: false,  // Change this to false if you don't want Splash screen.
+};
+
 const theme = {
   primaryTheme: "#6C63FF",
   secondaryTheme: "#55198b",
@@ -154,7 +159,7 @@ const skills = {
       ]
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud Computing",
       imagePath: "cloud.svg",
       skills: [
         "Experience working on multiple cloud platforms - Oracle, Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)",
@@ -620,7 +625,8 @@ const contactInfo = {
 };
 
 export {
-	theme,
+  theme,
+  settings,
 	greeting,
 	socialMediaLinks,
 	skills,
