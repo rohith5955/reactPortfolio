@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73fe67ea10f19e48e6b768efd3f1ee18",
+    "revision": "255c914c66a9ab7f67de13025d9b3c4f",
     "url": "/index.html"
   },
   {
-    "revision": "71bd271f6dbf91e0db3b",
-    "url": "/static/css/main.560d62b0.chunk.css"
+    "revision": "30cd782d30535f7406bd",
+    "url": "/static/css/main.92015301.chunk.css"
   },
   {
-    "revision": "b349e322624094e5d6a5",
-    "url": "/static/js/2.e102641d.chunk.js"
+    "revision": "ab9f7b117f5f1057209b",
+    "url": "/static/js/2.3f36d7a9.chunk.js"
   },
   {
-    "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/static/js/2.e102641d.chunk.js.LICENSE.txt"
+    "revision": "254c01d1a3c7d8124adf4c35e46b76e3",
+    "url": "/static/js/2.3f36d7a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71bd271f6dbf91e0db3b",
-    "url": "/static/js/main.ef26d65b.chunk.js"
+    "revision": "30cd782d30535f7406bd",
+    "url": "/static/js/main.cb41e812.chunk.js"
   },
   {
     "revision": "903d9b330b8f52e669e8",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "8eefdf0e689b2c130268d6111c3323d5",
+    "url": "/static/media/UArizona.8eefdf0e.jpg"
   },
   {
     "revision": "52e0714e5ea7e3b96f50dbfb62de21d1",
