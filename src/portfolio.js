@@ -39,11 +39,28 @@ const skills = {
       imagePath: "data_science.svg",
       skills: [
         "Developing highly scalable and production ready Machine Learning, Deep Learning and Statistical models",
-        "Experience in working with Computer Vision, Text Mining and Natural Language Processin (NLP)",
+        "Experience in working with Computer Vision, and Natural Language Processing (NLP)",
         "Complex quantitative modelling for Time Series analysis and forecasting",
-        "Libraries/Frameworks - TensorFlow, PyTorch, Keras, Numpy, Pandas, Scikit-learn, SciPy"
+        "Exploaratory Data Analysis using Excel, and Tableau",
+        "Libraries/Frameworks - TensorFlow, Keras, Numpy, Pandas, Scikit-learn, SciPy"
       ],
       softwareSkills: [
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "logos-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "yellow"
+          }
+        },
+        {
+          skillName: "R",
+          fontAwesomeClassname: "simple-icons:r",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB"
+          }
+        },
         {
           skillName: "TensorFlow",
           fontAwesomeClassname: "logos-tensorflow",
@@ -59,21 +76,30 @@ const skills = {
             color: "#D00000"
           }
         },
+        // {
+        //   skillName: "PyTorch",
+        //   fontAwesomeClassname: "logos-pytorch",
+        //   style: {
+        //     backgroundColor: "transparent"
+        //   }
+        // }
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "Excel",
+          fontAwesomeClassname: "simple-icons:microsoftexcel",
           style: {
-            backgroundColor: "transparent"
+            //backgroundColor: "white",
+            color: "green"
           }
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          skillName: "Tableau",
+          fontAwesomeClassname: "simple-icons:tableau",
           style: {
-            backgroundColor: "transparent",
-            color: "#3776AB"
+            backgroundColor: "white",
+            color: "#000099"
           }
-        }
+        },
+        
       ]
     },
     {
@@ -81,7 +107,7 @@ const skills = {
       imagePath: "code.svg",
       skills: [
         "Building robust applications on various platforms",
-        "Developing applications using C#, ASP.NET, Python, and React",
+        "Developing applications using C#, ASP.NET, Python, and JavaScript [React, Next]",
         "Developing Database Applications using Oracle SQL, MongoDB, MySQL"
       ],
       softwareSkills: [
@@ -127,6 +153,13 @@ const skills = {
           style: {
             color: "#339933"
           }
+        },
+        {
+          skillName: "NextJS",
+          fontAwesomeClassname: "simple-icons:next-dot-js",
+          style: {
+            color: "#fff"
+          }
         }
         // {
         //   skillName: "NPM",
@@ -164,7 +197,7 @@ const skills = {
       skills: [
         "Experience working on multiple cloud platforms - Oracle, Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)",
         "Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "Containerization and deploying Machine Learning and Deep Learning models on cloud using Docker and Kubernetes"
+        "Containerization and deploying Machine Learning and Deep Learning models on cloud using Docker"
       ],
       softwareSkills: [
         {
@@ -215,14 +248,14 @@ const skills = {
           style: {
             color: "#1488C6"
           }
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5"
-          }
         }
+        // {
+        //   skillName: "Kubernetes",
+        //   fontAwesomeClassname: "simple-icons:kubernetes",
+        //   style: {
+        //     color: "#326CE5"
+        //   }
+        // }
       ]
     },
     {
@@ -263,13 +296,13 @@ const skills = {
         //     color: "#EA77FF"
         //   }
         // },
-        {
-          skillName: "Adobe Lightroom CC",
-          fontAwesomeClassname: "simple-icons:adobelightroom",
-          style: {
-            color: "#3DF0F0"
-          }
-        }
+        // {
+        //   skillName: "Adobe Lightroom CC",
+        //   fontAwesomeClassname: "simple-icons:adobelightroom",
+        //   style: {
+        //     color: "#3DF0F0"
+        //   }
+        // }
       ]
     }
   ]

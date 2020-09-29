@@ -12,6 +12,7 @@
 
 .experience-card-body-div {
     width: 100%;
+    
 }
 
 .experience-card-header-div {
@@ -80,10 +81,12 @@
     position: relative;
     color: #000;
     text-decoration: none;
+    
 }
 
 .experience-card-company > a:hover {
     color: #000;
+    
 } 
 
 .experience-card-company > a:hover:before {
@@ -113,6 +116,7 @@
         margin-bottom:10px;
         flex-direction:column;
         text-align: center;
+        background-color: '#181A1B';
     }
 
     .experience-card-logo {

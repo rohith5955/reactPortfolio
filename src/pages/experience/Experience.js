@@ -17,14 +17,25 @@ const experience = {
 			title: "Work",
 			experiences: [
 				{
+					title: "Graduate Research Assistant",
+					company: "Department of Ecology & Evolutionary Biology",
+					company_url: "https://eeb.arizona.edu/",
+					logo_path: "UArizona.jpg",
+					duration: "August 2020 - Present",
+					location: "Tucson, Arizona",
+					description:
+						["Develop API and scientific application for the Taxonomic & Geographic Name Resolution Services.", " Develop algorithms, pipelines for efficient handling of Big Data in Biodiversity and Geographic Informatics.", " Build and develop open-source scientific packages in R for Bioinformatics."],
+					color: "red"
+				},
+				{
 					title: "Business Intelligence Analyst",
 					company: "Eller College of Management",
 					company_url: "https://eller.arizona.edu/",
 					logo_path: "ua_eller.png",
-					duration: "August 2019 - Present",
+					duration: "September 2019 - August 2020",
 					location: "Tucson, Arizona",
 					description:
-						"Research on comprehensive data, and help an entrepreneurial organization turn data into insights. Worked with international clients to perform data mining and visualization on extensive large-scale data sets using Business Intelligence tools for reporting, creating dashboards",
+						["Research on comprehensive data, and help an entrepreneurial organization turn data into insights.", " Worked with international clients to perform data mining and visualization on extensive large-scale data sets using Business Intelligence tools for reporting, creating dashboards"],
 					color: "red"
 				},
 				{
@@ -35,7 +46,7 @@ const experience = {
 					duration: "Feb 2016 - Mar 2019",
 					location: "Durgapur, India",
 					description:
-						"Data Scientist researching on various metrics for performance of released applications, attendees and users. Led a team of 15, of data scientists, developers and designers working on multiple deliverables including applications, websites, graphic designs, and motion graphics. Customer retention up by 40% in 3 years",
+						["Data Scientist researching on various metrics for performance of released applications, attendees and users.", " Led a team of 15, of data scientists, developers and designers working on multiple deliverables including applications, websites, graphic designs, and motion graphics.", " Customer retention up by 40% in 3 years."],
 					color: "blue"
 				}
 			]
@@ -44,13 +55,13 @@ const experience = {
 			title: "Internships",
 			experiences: [
 				{
-					title: "Data Analytics Intern",
+					title: "Data Analytics and Engineering Intern",
 					company: "ForeOptics",
 					company_url: "https://www.foreoptics.com/",
 					logo_path: "foreoptics_logo.png",
 					duration: "June 2020 - Present",
 					location: "Scottsdale, AZ",
-					description: ["Develop a data analytics roadmap and release strategy for new products and refine existing analytics portfolio.", " Use advanced data modeling and analysis techniques to identify performance metrics, and discover insights."," Build, develop and maintain data models, reporting systems, data automation systems, dashboards.", " Optimize processes for data intake, validation, mining, engineering as well as modeling & visualization deliverables."],
+					description: ["Develop a data analytics roadmap and release strategy for new products and refine existing analytics portfolio.", "Build, deploy applications with Node, React, PostgreSQL, Redis using Docker, AWS EC2, RDS.", " Use advanced data modeling and analysis techniques to identify performance metrics, and discover insights."," Build, develop and maintain data models, reporting systems, data automation systems, dashboards.", " Optimize processes for data intake, validation, mining, engineering as well as modeling & visualization deliverables.", "Optimized processes and reduced dashboarding time from 5 hours to 2 minutes by re-engineering data pipelines."],
 					color: "#1268A8"
 				},
 				{
