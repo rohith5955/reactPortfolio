@@ -17,14 +17,25 @@ const experience = {
 			title: "Work",
 			experiences: [
 				{
+					title: "Software Engineer",
+					company: "Nordstrom",
+					company_url: "https://nordstrom.com/",
+					logo_path: "Nordstrom.png",
+					duration: "February 2021 - Present",
+					location: "Seattle, Washington",
+					description:
+						["Develop event-driven micro-services and RESTful APIs on modern stack. ", "Design and develop scalable systems for Store Fulfillment experience for internal users. ", "Automating processes, utility functions and tools to improve dev capacity. ", "Experience with Node, React, AWS, Kubernetes, Docker, Kafka, Splunk, New Relic"],
+					color: "grey"
+				},
+				{
 					title: "Graduate Research Assistant",
 					company: "Department of Ecology & Evolutionary Biology",
 					company_url: "https://eeb.arizona.edu/",
-					logo_path: "UArizona.jpg",
-					duration: "August 2020 - Present",
+					logo_path: "uarizona.png",
+					duration: "August 2020 - Dec 2020",
 					location: "Tucson, Arizona",
 					description:
-						["Develop API and scientific application for the Taxonomic & Geographic Name Resolution Services.", " Develop algorithms, pipelines for efficient handling of Big Data in Biodiversity and Geographic Informatics.", " Build and develop open-source scientific packages in R for Bioinformatics."],
+						["Develop API and scientific application for the Taxonomic & Geographic Name Resolution Services. ", " Develop algorithms, pipelines for efficient handling of Big Data in Biodiversity and Geographic Informatics. ", " Build and develop open-source scientific packages in R for Bioinformatics"],
 					color: "red"
 				},
 				{
@@ -35,7 +46,7 @@ const experience = {
 					duration: "September 2019 - August 2020",
 					location: "Tucson, Arizona",
 					description:
-						["Research on comprehensive data, and help an entrepreneurial organization turn data into insights.", " Worked with international clients to perform data mining and visualization on extensive large-scale data sets using Business Intelligence tools for reporting, creating dashboards"],
+						["Research on comprehensive data, and help an entrepreneurial organization turn data into insights. ", " Worked with international clients to perform data mining and visualization on extensive large-scale data sets using Business Intelligence tools for reporting, creating dashboards"],
 					color: "red"
 				},
 				{
@@ -46,7 +57,7 @@ const experience = {
 					duration: "Feb 2016 - Mar 2019",
 					location: "Durgapur, India",
 					description:
-						["Data Scientist researching on various metrics for performance of released applications, attendees and users.", " Led a team of 15, of data scientists, developers and designers working on multiple deliverables including applications, websites, graphic designs, and motion graphics.", " Customer retention up by 40% in 3 years."],
+						["Developed mobile applications, websites, and UI/UX mockups for the technical society of NIT Durgapur. ", "Led a team of 15, of data scientists, software engineers, and designers. User retention up by 40% in 3 years"],
 					color: "blue"
 				}
 			]
@@ -61,7 +72,8 @@ const experience = {
 					logo_path: "foreoptics_logo.png",
 					duration: "June 2020 - Present",
 					location: "Scottsdale, AZ",
-					description: ["Develop a data analytics roadmap and release strategy for new products and refine existing analytics portfolio.", "Build, deploy applications with Node, React, PostgreSQL, Redis using Docker, AWS EC2, RDS.", " Use advanced data modeling and analysis techniques to identify performance metrics, and discover insights."," Build, develop and maintain data models, reporting systems, data automation systems, dashboards.", " Optimize processes for data intake, validation, mining, engineering as well as modeling & visualization deliverables.", "Optimized processes and reduced dashboarding time from 5 hours to 2 minutes by re-engineering data pipelines."],
+					description: 
+						["Develop data models and algorithms for Supply Chain Analytics portfolio using R, Python. ", "Build, deploy applications with Node, React, PostgreSQL, Redis using Docker, AWS EC2, RDS. ", "Optimized processes and reduced dashboarding time from 5 hours to 2 minutes by re-engineering data pipelines"],
 					color: "#1268A8"
 				},
 				{

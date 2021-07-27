@@ -16,9 +16,9 @@ const greeting = {
 	title: "Rohith Kumar Sajja",
 	nickname: "rohith5955",
 	subTitle:
-		"A budding Data Scientist, passionate about researching and developing analytical solutions.  I leverage Machine Learning and Deep Learning on the hottest commodity - data, to create an impact.",
+		"As an Engineer at Nordstrom, I leverage my technical skills to improve and amplify the store fulfillment experiences for our internal users. On a typical day, I help build customer facing applications and services, using micro-services and event-driven architecture on a modern stack",
 	resumeLink:
-		"https://arizona.box.com/s/tnvut40m0rhly2fox65uq7eqa1xgc1zq"
+		"https://drive.google.com/file/d/1j0KtuuoE70w4YxZ3iPdiflkXZBb2v_j6/view?usp=sharing"
 };
 
 const socialMediaLinks = {
@@ -35,11 +35,100 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
+      title: "Software Engineering",
+      imagePath: "code.svg",
+      skills: [
+        "Building scalable, robust customer-focused applications on various platforms",
+        "Developing applications using JavaScript [Node, React, React Native, Next], Python, and Java",
+        "Developing message-based, event-driven micro-services"
+      ],
+      softwareSkills: [
+        {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E"
+          }
+        },
+        {
+          skillName: "ReactJS",
+          fontAwesomeClassname: "simple-icons:react",
+          style: {
+            color: "#61DAFB"
+          }
+        },
+        {
+          skillName: "NodeJS",
+          fontAwesomeClassname: "simple-icons:node-dot-js",
+          style: {
+            color: "#339933"
+          }
+        },
+        {
+          skillName: "NextJS",
+          fontAwesomeClassname: "simple-icons:next-dot-js",
+          style: {
+            color: "#fff"
+          }
+        },
+        {
+          skillName: "NPM",
+          fontAwesomeClassname: "simple-icons:npm",
+          style: {
+            color: "#CB3837"
+          }
+        },
+        {
+          skillName: "Yarn",
+          fontAwesomeClassname: "simple-icons:yarn",
+          style: {
+            color: "#2C8EBB"
+          }
+        },
+        // {
+        //   skillName: "Gatsby",
+        //   fontAwesomeClassname: "simple-icons:gatsby",
+        //   style: {
+        //     color: "#663399"
+        //   }
+        // }
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B"
+        //   }
+        // }
+        {
+          skillName: "HTML5",
+          fontAwesomeClassname: "simple-icons:html5",
+          style: {
+            color: "#E34F26"
+          }
+        },
+        {
+          skillName: "CSS3",
+          fontAwesomeClassname: "fa-css3",
+          style: {
+            color: "#1572B6"
+          }
+        }
+        // {
+        //   skillName: "Sass",
+        //   fontAwesomeClassname: "simple-icons:sass",
+        //   style: {
+        //     color: "#CC6699"
+        //   }
+        // }
+      ]
+    },
+    {
       title: "Data Science & AI",
       imagePath: "data_science.svg",
       skills: [
-        "Developing highly scalable and production ready Machine Learning, Deep Learning and Statistical models",
-        "Experience in working with Computer Vision, and Natural Language Processing (NLP)",
+        "Developing production ready Machine Learning, Deep Learning and Statistical models",
+        "Experience in working with Computer Vision (CV), and Natural Language Processing (NLP)",
         "Complex quantitative modelling for Time Series analysis and forecasting",
         "Exploaratory Data Analysis using Excel, and Tableau",
         "Libraries/Frameworks - TensorFlow, Keras, Numpy, Pandas, Scikit-learn, SciPy"
@@ -103,101 +192,12 @@ const skills = {
       ]
     },
     {
-      title: "Software Engineering",
-      imagePath: "code.svg",
-      skills: [
-        "Building robust applications on various platforms",
-        "Developing applications using C#, ASP.NET, Python, and JavaScript [React, Next]",
-        "Developing Database Applications using Oracle SQL, MongoDB, MySQL"
-      ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26"
-          }
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6"
-          }
-        },
-        // {
-        //   skillName: "Sass",
-        //   fontAwesomeClassname: "simple-icons:sass",
-        //   style: {
-        //     color: "#CC6699"
-        //   }
-        // },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E"
-          }
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB"
-          }
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933"
-          }
-        },
-        {
-          skillName: "NextJS",
-          fontAwesomeClassname: "simple-icons:next-dot-js",
-          style: {
-            color: "#fff"
-          }
-        }
-        // {
-        //   skillName: "NPM",
-        //   fontAwesomeClassname: "simple-icons:npm",
-        //   style: {
-        //     color: "#CB3837"
-        //   }
-        // },
-        // {
-        //   skillName: "Yarn",
-        //   fontAwesomeClassname: "simple-icons:yarn",
-        //   style: {
-        //     color: "#2C8EBB"
-        //   }
-        // }
-        // {
-        //   skillName: "Gatsby",
-        //   fontAwesomeClassname: "simple-icons:gatsby",
-        //   style: {
-        //     color: "#663399"
-        //   }
-        // }
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B"
-        //   }
-        // }
-      ]
-    },
-    {
       title: "Cloud Computing",
       imagePath: "cloud.svg",
       skills: [
-        "Experience working on multiple cloud platforms - Oracle, Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)",
+        "Experience working on multiple cloud platforms - Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)",
         "Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "Containerization and deploying Machine Learning and Deep Learning models on cloud using Docker"
+        "Containerization and container orchestration using Docker and Kubernetes"
       ],
       softwareSkills: [
         {
@@ -248,14 +248,14 @@ const skills = {
           style: {
             color: "#1488C6"
           }
+        },
+        {
+          skillName: "Kubernetes",
+          fontAwesomeClassname: "simple-icons:kubernetes",
+          style: {
+            color: "#326CE5"
+          }
         }
-        // {
-        //   skillName: "Kubernetes",
-        //   fontAwesomeClassname: "simple-icons:kubernetes",
-        //   style: {
-        //     color: "#326CE5"
-        //   }
-        // }
       ]
     },
     {
