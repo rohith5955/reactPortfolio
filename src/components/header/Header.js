@@ -10,7 +10,7 @@ function Header() {
 				<header className="header">
 					{/* <NavLink to="/home" tag={Link} className="logo"> */}
 					{/* <div class="logo-holder">
-						<a href="https://rohithsajja.me">
+						<a href="https://rsajja.dev">
 							<img src="rs_logo.svg" alt="Rohith Sajja" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></img>
 						</a>
 					</div> */}

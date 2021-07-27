@@ -19,7 +19,7 @@
 
 <p align="center"> 
   <kbd>
-  	<a href="https://rohithsajja.me" target="_blank">
+  	<a href="https://rsajja.dev" target="_blank">
 		<img src="images/front.PNG"></img>
 	</a>
   </kbd>
