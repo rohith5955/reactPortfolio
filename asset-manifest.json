@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.92015301.chunk.css",
-    "main.js": "/static/js/main.cb41e812.chunk.js",
-    "main.js.map": "/static/js/main.cb41e812.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.439c01df.js",
-    "runtime-main.js.map": "/static/js/runtime-main.439c01df.js.map",
-    "static/js/2.3f36d7a9.chunk.js": "/static/js/2.3f36d7a9.chunk.js",
-    "static/js/2.3f36d7a9.chunk.js.map": "/static/js/2.3f36d7a9.chunk.js.map",
+    "main.js": "/static/js/main.d2281f86.chunk.js",
+    "main.js.map": "/static/js/main.d2281f86.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b9f5ad3b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b9f5ad3b.js.map",
+    "static/js/2.c5b22451.chunk.js": "/static/js/2.c5b22451.chunk.js",
+    "static/js/2.c5b22451.chunk.js.map": "/static/js/2.c5b22451.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dfc8210295211b4d579a8bbcef7bf814.js": "/precache-manifest.dfc8210295211b4d579a8bbcef7bf814.js",
+    "precache-manifest.2e934d2af53e84ca93dff4d1158d5026.js": "/precache-manifest.2e934d2af53e84ca93dff4d1158d5026.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.92015301.chunk.css.map": "/static/css/main.92015301.chunk.css.map",
-    "static/js/2.3f36d7a9.chunk.js.LICENSE.txt": "/static/js/2.3f36d7a9.chunk.js.LICENSE.txt",
+    "static/js/2.c5b22451.chunk.js.LICENSE.txt": "/static/js/2.c5b22451.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/UArizona.jpg": "/static/media/UArizona.8eefdf0e.jpg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.52e0714e.svg",
@@ -67,9 +67,9 @@
     "static/media/version_control.svg": "/static/media/version_control.999231c9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.439c01df.js",
-    "static/js/2.3f36d7a9.chunk.js",
+    "static/js/runtime-main.b9f5ad3b.js",
+    "static/js/2.c5b22451.chunk.js",
     "static/css/main.92015301.chunk.css",
-    "static/js/main.cb41e812.chunk.js"
+    "static/js/main.d2281f86.chunk.js"
   ]
 }
