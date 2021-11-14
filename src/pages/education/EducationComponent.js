@@ -26,18 +26,6 @@ class Education extends Component {
                 Qualifications and Certifcations
                 </h3>
                 {/* <CompetitiveSites logos={competitiveSites.competitiveSites} /> */}
-
-                {/* <h4>My core competencies include</h4>
-
-                <h5>
-                  <ul>
-                    <li>Data Science</li>
-                    <li>Machine Learning</li>
-                    <li>Deep Learning</li>
-                    <li>Software Engineering</li>
-                    <li>Product Management</li>
-                  </ul>
-                </h5> */}
               </div>
              
             </div>

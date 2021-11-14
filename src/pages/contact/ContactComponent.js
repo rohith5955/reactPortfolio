@@ -37,7 +37,7 @@ const emailSection = {
 const ContactData = {
 	title: "Contact Me",
     profile_image_path: "rohithsajja.png",
-    description: "I am available on almost all social media platforms. Feel free to reach out, to talk about Machine Learning, Deep Learning, Software Engineering or Product Management."
+    description: "I am available on almost all social media platforms. Feel free to reach out, to talk about Software Engineering and all things Tech"
 };
 
 class Contact extends Component {

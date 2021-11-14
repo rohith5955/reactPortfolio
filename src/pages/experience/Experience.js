@@ -10,7 +10,7 @@ const experience = {
 	title: "Experience",
 	subtitle: "Work, Internship and Volunteering",
 	description:
-		"I have worked with multiple high-paced organizations, including a Big4 firm, Government of India, and a start-up modelled organization. My core competencies include Data Science, Machine Learning, Deep Learning, Software Engineering, and Product Management.",
+		"I have worked with multiple high-paced organizations, including a Big4 firm, Government of India, and a start-up modelled organization. My core competencies include Data Science, Machine Learning, Deep Learning, Software Engineering.",
 	header_image_path: "experience.svg",
 	sections: [
 		{

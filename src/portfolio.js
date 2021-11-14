@@ -259,22 +259,15 @@ const skills = {
       ]
     },
     {
-      title: "Product Management",
+      title: "UI/UX",
       imagePath: "product.svg",
       skills: [
-        "End-to-end product ownership, from ideation to production and distribution",
+        "End-to-end design ownership, from ideation to production and distribution",
         "Designing intuitive User Interfaces (UI) and User Experiences (UX) with UI/UX design principles",
         "Developing graphic designs including posters, social media posts, and logos",
         "Photography and editing"
       ],
       softwareSkills: [
-        {
-          skillName: "JIRA",
-          fontAwesomeClassname: "simple-icons:jira",
-          style: {
-            color: "#095AD1"
-          }
-        },
         {
           skillName: "Adobe Photoshop",
           fontAwesomeClassname: "simple-icons:adobephotoshop",
@@ -289,20 +282,13 @@ const skills = {
             color: "#F37021"
           }
         },
-        // {
-        //   skillName: "Adobe Premiere",
-        //   fontAwesomeClassname: "simple-icons:adobepremiere",
-        //   style: {
-        //     color: "#EA77FF"
-        //   }
-        // },
-        // {
-        //   skillName: "Adobe Lightroom CC",
-        //   fontAwesomeClassname: "simple-icons:adobelightroom",
-        //   style: {
-        //     color: "#3DF0F0"
-        //   }
-        // }
+        {
+          skillName: "Adobe Lightroom CC",
+          fontAwesomeClassname: "simple-icons:adobelightroom",
+          style: {
+            color: "#3DF0F0"
+          }
+        }
       ]
     }
   ]
