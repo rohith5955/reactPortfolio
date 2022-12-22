@@ -18,7 +18,7 @@ const greeting = {
 	subTitle:
 		"As an Engineer at Nordstrom, I leverage my technical skills to improve and amplify the store fulfillment experiences for our internal users. On a typical day, I help build customer facing applications and services, using micro-services and event-driven architecture on a modern stack",
 	resumeLink:
-		"https://drive.google.com/file/d/1j0KtuuoE70w4YxZ3iPdiflkXZBb2v_j6/view?usp=sharing"
+		"https://drive.google.com/file/d/1-bOQEf1d3poXDidkD_nLHKlSUQWmIfXQ/view?usp=sharing"
 };
 
 const socialMediaLinks = {

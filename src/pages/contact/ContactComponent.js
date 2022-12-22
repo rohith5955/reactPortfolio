@@ -31,13 +31,13 @@ const phoneSection = {
 
 const emailSection = {
     title: "Email",
-    subtitle: "rsajja@email.arizona.edu"
+    subtitle: "rsajja@arizona.edu"
 }
 
 const ContactData = {
 	title: "Contact Me",
     profile_image_path: "rohithsajja.png",
-    description: "I am available on almost all social media platforms. Feel free to reach out, to talk about Software Engineering and all things Tech"
+    description: "Reach out, would love to talk about Software Engineering and all things Tech!!"
 };
 
 class Contact extends Component {
@@ -123,7 +123,7 @@ class Contact extends Component {
 											{emailSection["title"]}
 										</h1>
 										<p className="contact-header-detail-text subTitle">
-											<a href="mailto:rsajja@email.arizona.edu">{emailSection["subtitle"]}</a>
+											<a href="mailto:rsajja@arizona.edu">{emailSection["subtitle"]}</a>
 										</p>
 										{/* <div className="address-btn-div">
 											<Button
