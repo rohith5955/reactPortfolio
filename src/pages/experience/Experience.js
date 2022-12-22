@@ -17,7 +17,7 @@ const experience = {
 			title: "Work",
 			experiences: [
 				{
-					title: "Software Engineer",
+					title: "Software Engineer 2",
 					company: "Nordstrom",
 					company_url: "https://nordstrom.com/",
 					logo_path: "Nordstrom.png",
