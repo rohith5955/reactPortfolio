@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.92015301.chunk.css",
-    "main.js": "/static/js/main.0df366d1.chunk.js",
-    "main.js.map": "/static/js/main.0df366d1.chunk.js.map",
+    "main.css": "/static/css/main.aaa89e99.chunk.css",
+    "main.js": "/static/js/main.905075fc.chunk.js",
+    "main.js.map": "/static/js/main.905075fc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9f5ad3b.js",
     "runtime-main.js.map": "/static/js/runtime-main.b9f5ad3b.js.map",
-    "static/js/2.9017037c.chunk.js": "/static/js/2.9017037c.chunk.js",
-    "static/js/2.9017037c.chunk.js.map": "/static/js/2.9017037c.chunk.js.map",
+    "static/js/2.545437ab.chunk.js": "/static/js/2.545437ab.chunk.js",
+    "static/js/2.545437ab.chunk.js.map": "/static/js/2.545437ab.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f029bc758b92d0129ccedd673a2467d3.js": "/precache-manifest.f029bc758b92d0129ccedd673a2467d3.js",
+    "precache-manifest.bf8113baba388e6914c92da1468c2ca1.js": "/precache-manifest.bf8113baba388e6914c92da1468c2ca1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.92015301.chunk.css.map": "/static/css/main.92015301.chunk.css.map",
-    "static/js/2.9017037c.chunk.js.LICENSE.txt": "/static/js/2.9017037c.chunk.js.LICENSE.txt",
+    "static/css/main.aaa89e99.chunk.css.map": "/static/css/main.aaa89e99.chunk.css.map",
+    "static/js/2.545437ab.chunk.js.LICENSE.txt": "/static/js/2.545437ab.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/UArizona.jpg": "/static/media/UArizona.8eefdf0e.jpg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.52e0714e.svg",
@@ -68,8 +68,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b9f5ad3b.js",
-    "static/js/2.9017037c.chunk.js",
-    "static/css/main.92015301.chunk.css",
-    "static/js/main.0df366d1.chunk.js"
+    "static/js/2.545437ab.chunk.js",
+    "static/css/main.aaa89e99.chunk.css",
+    "static/js/main.905075fc.chunk.js"
   ]
 }
