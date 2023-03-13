@@ -3,7 +3,9 @@
   color: #868e96;
   font-family: "Google Sans Regular";
 }
-
+a:link, a:visited {
+  color: #868e96;
+}
 .footer-div {
   margin-top: 2rem;
 }

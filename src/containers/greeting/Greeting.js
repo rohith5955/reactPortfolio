@@ -12,13 +12,8 @@ export default function Greeting() {
           <div className="greeting-text-div">
             <div>
               <h1 className="greeting-text">{greeting.title}</h1>
-              <h2 className="greeting-nickname">( {greeting.nickname} )</h2>
               <p className="greeting-text-p subTitle">{greeting.subTitle}</p>
               <SocialMedia />
-              {/* <div className="button-greeting-div">
-              <Button text="Contact me" href="#contact" />
-              <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
-            </div> */}
             </div>
           </div>
           <div className="greeting-image-div">

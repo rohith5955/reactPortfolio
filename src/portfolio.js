@@ -14,9 +14,9 @@ const theme = {
 const greeting = {
 	/* Your Summary And Greeting Section */
 	title: "Rohith Kumar Sajja",
-	nickname: "rohith5955",
+	nickname: "",
 	subTitle:
-		"As an Engineer at Nordstrom, I leverage my technical skills to improve and amplify the store fulfillment experiences for our internal users. On a typical day, I help build customer facing applications and services, using micro-services and event-driven architecture on a modern stack",
+		"As an Engineer, I leverage my technical skills to improve and amplify the store fulfillment experiences for our internal users. On a typical day, I help build customer facing applications and services, using micro-services and event-driven architecture on a modern stack",
 	resumeLink:
 		"https://drive.google.com/file/d/1-bOQEf1d3poXDidkD_nLHKlSUQWmIfXQ/view?usp=sharing"
 };
@@ -124,74 +124,6 @@ const skills = {
       ]
     },
     {
-      title: "Data Science & AI",
-      imagePath: "data_science.svg",
-      skills: [
-        "Developing production ready Machine Learning, Deep Learning and Statistical models",
-        "Experience in working with Computer Vision (CV), and Natural Language Processing (NLP)",
-        "Complex quantitative modelling for Time Series analysis and forecasting",
-        "Exploaratory Data Analysis using Excel, and Tableau",
-        "Libraries/Frameworks - TensorFlow, Keras, Numpy, Pandas, Scikit-learn, SciPy"
-      ],
-      softwareSkills: [
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "logos-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "yellow"
-          }
-        },
-        {
-          skillName: "R",
-          fontAwesomeClassname: "simple-icons:r",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB"
-          }
-        },
-        {
-          skillName: "TensorFlow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent"
-          }
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000"
-          }
-        },
-        // {
-        //   skillName: "PyTorch",
-        //   fontAwesomeClassname: "logos-pytorch",
-        //   style: {
-        //     backgroundColor: "transparent"
-        //   }
-        // }
-        {
-          skillName: "Excel",
-          fontAwesomeClassname: "simple-icons:microsoftexcel",
-          style: {
-            //backgroundColor: "white",
-            color: "green"
-          }
-        },
-        {
-          skillName: "Tableau",
-          fontAwesomeClassname: "simple-icons:tableau",
-          style: {
-            backgroundColor: "white",
-            color: "#000099"
-          }
-        },
-        
-      ]
-    },
-    {
       title: "Cloud Computing",
       imagePath: "cloud.svg",
       skills: [
@@ -257,87 +189,10 @@ const skills = {
           }
         }
       ]
-    },
-    {
-      title: "UI/UX",
-      imagePath: "product.svg",
-      skills: [
-        "End-to-end design ownership, from ideation to production and distribution",
-        "Designing intuitive User Interfaces (UI) and User Experiences (UX) with UI/UX design principles",
-        "Developing graphic designs including posters, social media posts, and logos",
-        "Photography and editing"
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe Photoshop",
-          fontAwesomeClassname: "simple-icons:adobephotoshop",
-          style: {
-            color: "#26C9FF"
-          }
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#F37021"
-          }
-        },
-        {
-          skillName: "Adobe Lightroom CC",
-          fontAwesomeClassname: "simple-icons:adobelightroom",
-          style: {
-            color: "#3DF0F0"
-          }
-        }
-      ]
     }
   ]
 };
 
-// const competitiveSites = {
-//   competitiveSites: [
-//     {
-//       siteName: "HackerRank",
-//       iconifyClassname: "simple-icons:hackerrank",
-//       style: {
-//         color: "#2EC866"
-//       },
-//       profileLink: "https://www.hackerrank.com/layman_brother"
-//     },
-//     {
-//       siteName: "Codechef",
-//       iconifyClassname: "simple-icons:codechef",
-//       style: {
-//         color: "#5B4638"
-//       },
-//       profileLink: "https://www.codechef.com/users/ashutosh_1919"
-//     },
-//     {
-//       siteName: "Codeforces",
-//       iconifyClassname: "simple-icons:codeforces",
-//       style: {
-//         color: "#1F8ACB"
-//       },
-//       profileLink: "http://codeforces.com/profile/layman_brother"
-//     },
-//     {
-//       siteName: "Hackerearth",
-//       iconifyClassname: "simple-icons:hackerearth",
-//       style: {
-//         color: "#323754"
-//       },
-//       profileLink: "https://www.hackerearth.com/@ashutosh391"
-//     },
-//     {
-//       siteName: "Kaggle",
-//       iconifyClassname: "simple-icons:kaggle",
-//       style: {
-//         color: "#20BEFF"
-//       },
-//       profileLink: "https://www.kaggle.com/laymanbrother"
-//     }
-//   ]
-// }
 
 const degrees = {
   degrees : [
